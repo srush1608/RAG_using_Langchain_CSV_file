@@ -1,0 +1,7 @@
+langchain-community
+pgvector
+pandas
+python-dotenv
+groq  
+psycopg2-binary  
+langchain-groq
